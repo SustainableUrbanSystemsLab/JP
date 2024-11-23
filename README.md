@@ -1,2 +1,1 @@
-# JP
-Journal Paper template with LaTeX
+# JP-EB-3D-Heat-Transfer-Analysis
